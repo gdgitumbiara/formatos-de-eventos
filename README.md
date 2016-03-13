@@ -16,3 +16,7 @@ Exibição de filme ou documentário relacionado a área de tecnologia (sugestõ
 ### Encontro WTM
 
 Encontros mensais com mulheres palestrando! (GDG Belo Horizonte)
+
+### Google Developer Pizza
+
+Encontros para conversar sobre a comunidade local (descutindo a relação) e comer muita Pizza (GDG Recife)
