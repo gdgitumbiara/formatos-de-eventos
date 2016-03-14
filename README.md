@@ -24,3 +24,8 @@ Encontros para conversar sobre a comunidade local (descutindo a relação) e com
 ### GDG Beer Night
 
 Reuniões para comer/beber e falar de tecnologias, em um ambiente descontraído, para tornar os participantes da comunidade participantes da equipe também! (GDG Curitiba)
+
+
+### GDG Tech Tour
+
+A proposta é fazer um tour pelas faculdades/universidades, criando mini-eventos ou encontros, falando sempre sobre tecnologias importantes, além de proporcionar o networking entre a galera. (GDG Salvador)
