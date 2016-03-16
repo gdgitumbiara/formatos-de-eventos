@@ -41,3 +41,7 @@ Encontros para conversar sobre a comunidade local (descutindo a relação) e com
 ### Open Bar Hangouts
 
 Hangouts on Air periódicos com pessoas da comunidade, com temática e pauta definidas pelo grupo abertamente. (GDG Aracaju)
+
+### Shark Bowl
+
+Formato onde cada participante pode sugerir um tema para uma discussão com tempo pré-definido. [Detalhado neste repositório.](https://github.com/duodraco/shark-bowl)
